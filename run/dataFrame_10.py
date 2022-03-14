@@ -17,17 +17,11 @@ def lastTable():
         draw=(glom(data,specsA)) 
         df['DrawNumbers'] = draw
 
-        specsC=('PreviousDraws',['DrawDate'])
-        draw=(glom(data,specsC)) 
-        df['DrawDate'] = draw
-
         for j in range(0,5):
             specsB=('PreviousDraws',['WinningNumbers'],[f'{j}'],['Number'])
             number=(glom(data,specsB))  
             df[f'Index{j}'] = number
 
-
-    #return df.to_csv("file10.csv", index=False)
-    print(df)
+    df.to_csv("file10.csv", index=False)
 
 lastTable()
