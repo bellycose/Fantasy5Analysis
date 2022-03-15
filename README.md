@@ -5,7 +5,7 @@
 Donald Cao|cao.donald89@gmail.com|[bellycose](https://github.com/bellycose "github")|
 
 ### Purpose
-The purpose for this project is to extricate targeted data from API on CA-Lottery webstite into csv/xlxs file and by using Baysian Probability Statistics to develop a prediction of the next winning calls.
+The purpose for this project is to extricate targeted data from API on CA-Lottery webstite into csv/xlxs file and by using excels for descriptive statistics.
 
 ### Softwares
 - Python 3.10.x
