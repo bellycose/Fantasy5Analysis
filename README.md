@@ -22,3 +22,8 @@ The purpose for this project is to extricate targeted data from API on CA-Lotter
 2. Data wrangled with glom.
 3. Data further cleaned and saved as csv and xlxs.
 4. Statistic analysis, starting with descriptive and then exploratory analysis.
+---
+
+### Note
+Project has been completed 03/15/2022
+You can read the pdf article if interested.
